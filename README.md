@@ -18,7 +18,7 @@ Cette application Streamlit permet de scraper des données sur les plus grandes 
 ## Installation
 1. Clonez ce dépôt sur votre machine locale :
    ```bash
-   git clone https://github.com/votre-utilisateur/scraping-homework.git
+   git clone https://github.com/ProGitMounir/scraping-homework.git
    
 2. Accédez au répertoire du projet :
    ```bash
